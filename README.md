@@ -7,8 +7,16 @@
 <!-- 4. A list of schools you attended, hyperlinked to the websites of those insitutions -->
 
 # Mut Tulow
-![]()
-## Education
-- [University of Utah]()
+![](./images/Profile_IMG_1048.jpeg)
 
-A public repository of projects and assignments to highlight data science / data analysis skills.
+## Courses
+- TODO: Add courses here.
+
+## Projects
+- TODO: Add projects here.
+
+## Skills
+- TODO: Add skills here.
+
+---
+---
